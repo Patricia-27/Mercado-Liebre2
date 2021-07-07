@@ -1,0 +1,112 @@
+body{ 
+    box-sizing: border-box;
+    background-color: #ebebeb;;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px; 
+
+}
+
+li{ 
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+i{ 
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+header a.burger{ 
+    display: block;
+    text-align: center;
+    font-size: 21px;
+    border-radius: 10px;
+    height: 55px;
+    background-color: #03264C;
+    color: #ebebeb;
+
+   
+}
+
+header{
+    background: #eac926;
+    margin: 10px;
+    border-radius: 5px;
+    width: 190%;
+}
+
+header ul li a{
+    color: black;
+    margin-right: 5px;
+}
+header h3{
+    text-align:left;
+}
+header a.icon{
+    display: block;
+   margin: 0 auto;
+  text-align: right;
+    color: black;
+   float: left;
+}
+
+
+.home .logo{ 
+    width: 60%;
+}
+
+.home header section h3{
+    font-size: 15px;
+    padding: 0px;
+    margin: 10px 0;
+}
+
+.home main section article images{
+ display: block;
+}
+
+article{
+    width: 50%;
+}
+
+main h3{
+    font-size: 24px;
+}
+
+main h2{
+    font-size: 24px;
+}
+main h4{
+    font-size: 16px;
+}
+main span{
+    font-size: 18px;
+}
+main p{
+    font-size: 16px;
+}
+
+.home footer{ 
+    
+    background-color:gainsboro;
+    border-radius: 15px;
+    height: 50%;
+    text-align: center;
+    width: 190%;
+}
+.home footer section p{ 
+    display: inline-block;
+    width: 70%;
+    text-align:center;
+}
+.home footer section h3{
+    text-align:center;
+}
+footer a.info{
+    display: block;
+    text-align:center ;
+}
